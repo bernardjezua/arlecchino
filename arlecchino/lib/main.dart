@@ -1,12 +1,19 @@
-/*
-Exercise 3: Introduction to Flutter
-Description: A program that replicates a social media profile page with a grid of images.
-
-Name: Bernard Jezua Tandang
-Section: CMSC 23 - U2L
-Student Number: 2021-09992
-Date: July 3, 2024
-*/
+/***********************************************************
+* This Flutter application displays an Instagram-like profile page of Arlecchino, a character
+* from the popular video game, Genshin Impact.
+* 
+* The top section includes a [1] circular avatar (GeeksforGeeks, 2020), [2] edit bio button, [3] 
+* number of posts (dynamic), followers (static), and following (also static), and [4] a horizontally 
+* scrollable category section for text button icons of Posts, Reels, Tagged, Likes, and Saved.
+*
+* Below that is a widget of a vertically scrollable image grid (3 random pictures per row) with a 
+* floating action button that adds random images as posts. The program initally has 4 posts, and 
+* every time the button is pressed, it adds a random Arlecchino picture/post to the end of the list.
+*
+* @author RebberChicken
+* @created_date 2023-07-05 13:07
+* DO NOT COPY OR USE THE CODE FOR OTHER PURPOSES.
+***********************************************************/
 
 import 'dart:math'; // For random number generator
 import 'package:flutter/material.dart'; // For icons, widgets, and material design
