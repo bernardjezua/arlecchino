@@ -10,7 +10,7 @@
 * floating action button that adds random images as posts. The program initally has 4 posts, and 
 * every time the button is pressed, it adds a random Arlecchino picture/post to the end of the list.
 *
-* @author bernardjezua
+* @author bernardjezua 
 * @created_date 2023-07-05 13:07
 * DO NOT COPY OR USE THE CODE FOR OTHER PURPOSES.
 ***********************************************************/
