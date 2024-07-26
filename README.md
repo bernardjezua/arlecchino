@@ -10,7 +10,7 @@ This Flutter application displays an Instagram-like profile page of **Arlecchino
 
 Below that is **a widget** of a vertically scrollable image grid (3 random pictures per row) with a floating action button that adds random images as posts. The program _initally has 4 posts_, and every time the button is pressed, it _adds a random Arlecchino picture/post_ to the end of the list.
 
-## How the Code Works
+## Features
 
 1. **Dark Mode**: Experimented and applied a dark theme and customized its colors for a consistent look and feel.
 2. **SingleChildScrollView**: Wrapped the main content in a `SingleChildScrollView` to make the entire screen scrollable.
