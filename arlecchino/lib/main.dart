@@ -2,9 +2,9 @@
 * This Flutter application displays an Instagram-like profile page of Arlecchino, a character
 * from the popular video game, Genshin Impact.
 * 
-* The top section includes a [1] circular avatar (GeeksforGeeks, 2020), [2] edit bio button, [3] 
-* number of posts (dynamic), followers (static), and following (also static), and [4] a horizontally 
-* scrollable category section for text button icons of Posts, Reels, Tagged, Likes, and Saved.
+* The top section includes a [1] circular avatar, [2] edit bio button, [3] number of posts (dynamic), 
+* followers (static), and following (also static), and [4] a horizontally scrollable category section 
+* for text button icons of Posts, Reels, Tagged, Likes, and Saved.
 *
 * Below that is a widget of a vertically scrollable image grid (3 random pictures per row) with a 
 * floating action button that adds random images as posts. The program initally has 4 posts, and 
